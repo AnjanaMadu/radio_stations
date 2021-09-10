@@ -1,0 +1,32 @@
+Hiru FM
+http://209.133.216.3:7018/
+
+Lakhanda
+https://cp12.serverse.com/proxy/itnfm/stream
+
+FM Derana
+https://cp12.serverse.com/proxy/fmderana/stream
+
+Neth FM
+http://69.46.24.226:7669/stream
+
+Rangiri Radii
+http://tachyon.shoutca.st:8827/index
+
+Shaa FM
+http://209.133.216.3:7073/stream/
+
+Shakthi FM
+http://live.trusl.com:1160/
+
+Sirasa FM
+http://live.trusl.com:1170/
+
+Siyatha FM
+http://s3.voscast.com:8408/.mp3
+
+Vasantham FM
+https://cp12.serverse.com/proxy/vasanthamfm/stream
+
+YFM
+http://live.trusl.com:1180/
