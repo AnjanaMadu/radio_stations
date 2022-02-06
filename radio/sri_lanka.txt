@@ -33,3 +33,12 @@ http://live.trusl.com:1180/
 
 Hela Handa Radio
 http://node-14.zeno.fm/612ysau63k0uv
+
+Kiss FM
+http://198.178.123.8:8404/
+
+Shraddha 
+http://69.46.24.226:7643/
+
+TNL Rocks
+http://live.tnlrn.com:8010/live.mp3
