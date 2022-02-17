@@ -42,3 +42,16 @@ http://69.46.24.226:7643/
 
 TNL Rocks
 http://live.tnlrn.com:8010/live.mp3
+
+RED FM 99.5 & 99.7 [ENGLISH]
+http://shaincast.caster.fm:47830/listen.mp3
+
+Fox 91.4 FM [ENGLISH]
+http://69.46.24.226:7673/start
+
+Ruu Radio Int [Tamil]
+http://shaincast.caster.fm:47814/listen.mp3
+
+ABC Gold FM 93 FM [Hindi]
+http://209.133.216.3:7048/;
+
