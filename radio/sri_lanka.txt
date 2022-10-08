@@ -55,5 +55,9 @@ http://shaincast.caster.fm:47814/listen.mp3
 ABC Gold FM 93 FM [Hindi]
 http://209.133.216.3:7048/;
 
+
 Chill Radio [ENGLISH]
 https://chill.lk/reggae_live
+
+Ran FM
+http://207.148.74.192:7860/ran.mp3
